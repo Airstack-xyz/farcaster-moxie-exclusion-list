@@ -33,5 +33,15 @@
     "fid": "10512",
     "username": "purplebot",
     "type": "bot"
+},
+{
+    "fid": "420154",
+    "username": "fobot",
+    "type": "bot"
+},
+{
+    "fid": "497661",
+    "username": "opgovbot",
+    "type": "bot"
 }
 ]
