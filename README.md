@@ -1,8 +1,14 @@
-# Farcaster Bot Accounts
-A public repository with Farcaster accounts considered to be bot accounts. You can find the list in the json file [here](https://github.com/Airstack-xyz/farcaster-bots/blob/main/farcaster-bots.json).
+# Accounts excluded from Moxie Protocol everyday rewards
+A public repository with Farcaster accounts which are excluded from giving or earning Moxie. You can find the list in the json file [here](https://github.com/Airstack-xyz/farcaster-bots/blob/main/farcaster-bots.json).
 
-At the moment, we are manually scanning the top FIDs with the most number of replies & FIDs, reviewing those with the highest Social Capital Score (>1), and checking if those accounts are bot accounts (automatic replies, etc.). See example gdoc analysis [here](https://docs.google.com/spreadsheets/d/1FRvE2WbeqCWX3D0OjljYE7RzuIGmeynk6AfFeOwWbDM/edit?usp=sharing).
+Majority of the accounts are automatically flagged by our system, which is trying to identify bot-like behavior and farming activities.
 
-These bot accounts are excluded from Airstack Social Capital calculations.
+If you think your account has been flagged by mistake, you can raise a PR or an issue with the account details. 
 
-Feel free to raise a PR to add more accounts to track overall bot activity on Farcaster, or ask to be included as a contributor. 
+## Only PRs/issues following the criteria will be reviewed:
+
+Account FID: 2602
+
+Moxie Protocol TVL: 113,237 MOXIE (can be found on Airstack's website)
+
+Comment why the account should be unflagged
