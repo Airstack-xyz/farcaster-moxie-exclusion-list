@@ -7,8 +7,10 @@ If you think your account has been flagged by mistake, you can raise a PR or an 
 
 ## Only PRs/issues following the criteria will be reviewed:
 
-Account FID: 2602
+1. Account FID: 2602
 
-Moxie Protocol TVL: 113,237 MOXIE (can be found on Airstack's website)
+2. Moxie Protocol TVL: 113,237 MOXIE (can be found on Airstack's website)
 
-Comment why the account should be unflagged
+3. Comment why the account should be unflagged
+
+If any of the above information is missing the PR/Issue will be closed.
