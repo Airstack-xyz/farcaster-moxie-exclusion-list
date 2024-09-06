@@ -1270,9 +1270,33 @@
   {
     "ID": 444860,
     "remarks": "flagged by system"
-  }
+  },
   {
     "ID": 481404,
+    "remarks": "flagged by system"
+  },
+  {
+    "ID": 528149,
+    "remarks": "manually excluded"
+  },
+  {
+    "ID": 499008,
+    "remarks": "manually excluded"
+  },
+  {
+    "ID": 424006,
+    "remarks": "manually excluded"
+  },
+  {
+    "ID": 419748,
+    "remarks": "flagged by system"
+  },
+  {
+    "ID": 531649,
+    "remarks": "flagged by system"
+  },
+  {
+    "ID": 612196,
     "remarks": "flagged by system"
   }
 ]
