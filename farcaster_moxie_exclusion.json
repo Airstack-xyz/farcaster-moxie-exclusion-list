@@ -748,10 +748,6 @@
     "remarks": "flagged by system"
   },
   {
-    "ID": 243719,
-    "remarks": "flagged by system"
-  },
-  {
     "ID": 476677,
     "remarks": "flagged by system"
   },
@@ -948,10 +944,6 @@
     "remarks": "flagged by system"
   },
   {
-    "ID": 439396,
-    "remarks": "flagged by system"
-  },
-  {
     "ID": 611651,
     "remarks": "flagged by system"
   },
@@ -1040,15 +1032,7 @@
     "remarks": "flagged by system"
   },
   {
-    "ID": 512874,
-    "remarks": "flagged by system"
-  },
-  {
     "ID": 782153,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 508096,
     "remarks": "flagged by system"
   },
   {
@@ -1558,5 +1542,29 @@
 {
   "ID": 829108,
   "remarks": "flagged by system"
-}
+},
+{
+  "ID": 432209,
+  "remarks": "manually excluded"
+},
+{
+  "ID": 4923,
+  "remarks": "flagged by system"
+},
+{
+  "ID": 400242,
+  "remarks": "flagged by system"
+},
+{
+  "ID": 797336,
+  "remarks": "flagged by system"
+},
+{
+  "ID": 496925,
+  "remarks": "flagged by system"
+},
+{
+  "ID": 508762,
+  "remarks": "flagged by system"
+},
 ]
