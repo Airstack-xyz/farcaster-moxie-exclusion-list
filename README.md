@@ -1,8 +1,6 @@
 # Accounts excluded from Moxie Protocol everyday rewards
 A public repository with Farcaster accounts which are excluded from giving or earning Moxie. You can find the list in the json file [here](https://github.com/Airstack-xyz/farcaster-bots/blob/main/farcaster-bots.json).
 
-Majority of the accounts are automatically flagged by our system, which is trying to identify bot-like behavior and farming activities.
-
 If you think your account has been flagged by mistake, you can raise a PR or an issue with the account details. 
 
 ## Only PRs/issues following the criteria will be reviewed:
