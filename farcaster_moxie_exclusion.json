@@ -1,1546 +1,670 @@
 [
   {
-    "ID": 829935,
+    "FID": 211734,
     "remarks": "bot"
   },
   {
-    "ID": 497661,
+    "FID": 373255,
     "remarks": "bot"
   },
   {
-    "ID": 420154,
+    "FID": 829935,
     "remarks": "bot"
   },
   {
-    "ID": 9595,
+    "FID": 497661,
     "remarks": "bot"
   },
   {
-    "ID": 815837,
+    "FID": 420154,
     "remarks": "bot"
   },
   {
-    "ID": 537227,
+    "FID": 9595,
     "remarks": "bot"
   },
   {
-    "ID": 816433,
+    "FID": 815837,
     "remarks": "bot"
   },
   {
-    "ID": 807370,
+    "FID": 537227,
     "remarks": "bot"
   },
   {
-    "ID": 786858,
+    "FID": 816433,
     "remarks": "bot"
   },
   {
-    "ID": 498134,
+    "FID": 807370,
     "remarks": "bot"
   },
   {
-    "ID": 489156,
+    "FID": 786858,
     "remarks": "bot"
   },
   {
-    "ID": 361746,
+    "FID": 498134,
     "remarks": "bot"
   },
   {
-    "ID": 450425,
+    "FID": 489156,
     "remarks": "bot"
   },
   {
-    "ID": 502254,
+    "FID": 361746,
     "remarks": "bot"
   },
   {
-    "ID": 368422,
+    "FID": 450425,
     "remarks": "bot"
   },
   {
-    "ID": 460287,
+    "FID": 502254,
     "remarks": "bot"
   },
   {
-    "ID": 460608,
+    "FID": 368422,
     "remarks": "bot"
   },
   {
-    "ID": 10512,
+    "FID": 460287,
     "remarks": "bot"
   },
   {
-    "ID": 396659,
+    "FID": 460608,
     "remarks": "bot"
   },
   {
-    "ID": 4417,
+    "FID": 12741,
     "remarks": "bot"
   },
   {
-    "ID": 20596,
+    "FID": 403507,
     "remarks": "bot"
   },
   {
-    "ID": 403507,
+    "FID": 364927,
     "remarks": "bot"
   },
   {
-    "ID": 364927,
+    "FID": 1110,
     "remarks": "bot"
   },
   {
-    "ID": 12741,
+    "FID": 10512,
     "remarks": "bot"
   },
   {
-    "ID": 1110,
+    "FID": 4417,
     "remarks": "bot"
   },
   {
-    "ID": 195255,
-    "remarks": "manually excluded"
+    "FID": 20596,
+    "remarks": "bot"
   },
   {
-    "ID": 330408,
-    "remarks": "manually excluded"
+    "FID": 396659,
+    "remarks": "bot"
   },
   {
-    "ID": 466408,
+    "FID": 783818,
     "remarks": "manually excluded"
   },
   {
-    "ID": 467616,
+    "FID": 501216,
     "remarks": "manually excluded"
   },
   {
-    "ID": 371853,
+    "FID": 501213,
     "remarks": "manually excluded"
   },
   {
-    "ID": 467706,
+    "FID": 347793,
     "remarks": "manually excluded"
   },
   {
-    "ID": 388876,
+    "FID": 339515,
     "remarks": "manually excluded"
   },
   {
-    "ID": 403157,
+    "FID": 510077,
     "remarks": "manually excluded"
   },
   {
-    "ID": 467671,
+    "FID": 429894,
     "remarks": "manually excluded"
   },
   {
-    "ID": 425402,
+    "FID": 486435,
     "remarks": "manually excluded"
   },
   {
-    "ID": 447594,
+    "FID": 534255,
     "remarks": "manually excluded"
   },
   {
-    "ID": 467634,
+    "FID": 392620,
     "remarks": "manually excluded"
   },
   {
-    "ID": 516053,
+    "FID": 535032,
     "remarks": "manually excluded"
   },
   {
-    "ID": 376123,
+    "FID": 301834,
     "remarks": "manually excluded"
   },
   {
-    "ID": 397963,
+    "FID": 534270,
     "remarks": "manually excluded"
   },
   {
-    "ID": 425412,
+    "FID": 256032,
     "remarks": "manually excluded"
   },
   {
-    "ID": 425429,
+    "FID": 534276,
     "remarks": "manually excluded"
   },
   {
-    "ID": 444786,
+    "FID": 535016,
     "remarks": "manually excluded"
   },
   {
-    "ID": 444799,
+    "FID": 251490,
     "remarks": "manually excluded"
   },
   {
-    "ID": 447603,
+    "FID": 348061,
     "remarks": "manually excluded"
   },
   {
-    "ID": 406863,
+    "FID": 535044,
     "remarks": "manually excluded"
   },
   {
-    "ID": 406921,
+    "FID": 352385,
     "remarks": "manually excluded"
   },
   {
-    "ID": 425387,
+    "FID": 534296,
     "remarks": "manually excluded"
   },
   {
-    "ID": 406936,
+    "FID": 535056,
     "remarks": "manually excluded"
   },
   {
-    "ID": 406930,
+    "FID": 535003,
     "remarks": "manually excluded"
   },
   {
-    "ID": 406899,
+    "FID": 534809,
     "remarks": "manually excluded"
   },
   {
-    "ID": 406890,
+    "FID": 534489,
     "remarks": "manually excluded"
   },
   {
-    "ID": 406869,
+    "FID": 534248,
     "remarks": "manually excluded"
   },
   {
-    "ID": 406855,
+    "FID": 534480,
     "remarks": "manually excluded"
   },
   {
-    "ID": 403310,
+    "FID": 535201,
     "remarks": "manually excluded"
   },
   {
-    "ID": 403145,
+    "FID": 534311,
     "remarks": "manually excluded"
   },
   {
-    "ID": 400471,
+    "FID": 534338,
     "remarks": "manually excluded"
   },
   {
-    "ID": 400466,
+    "FID": 379701,
     "remarks": "manually excluded"
   },
   {
-    "ID": 400461,
+    "FID": 534238,
     "remarks": "manually excluded"
   },
   {
-    "ID": 400429,
+    "FID": 534216,
     "remarks": "manually excluded"
   },
   {
-    "ID": 400424,
+    "FID": 447355,
     "remarks": "manually excluded"
   },
   {
-    "ID": 400419,
+    "FID": 534450,
     "remarks": "manually excluded"
   },
   {
-    "ID": 396293,
+    "FID": 534361,
     "remarks": "manually excluded"
   },
   {
-    "ID": 396144,
+    "FID": 379748,
     "remarks": "manually excluded"
   },
   {
-    "ID": 396142,
+    "FID": 534200,
     "remarks": "manually excluded"
   },
   {
-    "ID": 396138,
+    "FID": 534175,
     "remarks": "manually excluded"
   },
   {
-    "ID": 396136,
+    "FID": 534353,
     "remarks": "manually excluded"
   },
   {
-    "ID": 396133,
+    "FID": 390044,
     "remarks": "manually excluded"
   },
   {
-    "ID": 396129,
+    "FID": 394099,
     "remarks": "manually excluded"
   },
   {
-    "ID": 394367,
+    "FID": 394083,
     "remarks": "manually excluded"
   },
   {
-    "ID": 394378,
+    "FID": 460539,
     "remarks": "manually excluded"
   },
   {
-    "ID": 394372,
+    "FID": 534116,
     "remarks": "manually excluded"
   },
   {
-    "ID": 394381,
+    "FID": 455875,
     "remarks": "manually excluded"
   },
   {
-    "ID": 392276,
+    "FID": 392460,
     "remarks": "manually excluded"
   },
   {
-    "ID": 391379,
+    "FID": 392477,
     "remarks": "manually excluded"
   },
   {
-    "ID": 391373,
+    "FID": 392492,
     "remarks": "manually excluded"
   },
   {
-    "ID": 390508,
+    "FID": 392506,
     "remarks": "manually excluded"
   },
   {
-    "ID": 390498,
+    "FID": 392518,
     "remarks": "manually excluded"
   },
   {
-    "ID": 388886,
+    "FID": 392523,
     "remarks": "manually excluded"
   },
   {
-    "ID": 388881,
+    "FID": 392534,
     "remarks": "manually excluded"
   },
   {
-    "ID": 380606,
+    "FID": 392549,
     "remarks": "manually excluded"
   },
   {
-    "ID": 380599,
+    "FID": 392569,
     "remarks": "manually excluded"
   },
   {
-    "ID": 356807,
+    "FID": 392599,
     "remarks": "manually excluded"
   },
   {
-    "ID": 511970,
+    "FID": 374126,
     "remarks": "manually excluded"
   },
   {
-    "ID": 345484,
+    "FID": 275519,
     "remarks": "manually excluded"
   },
   {
-    "ID": 355066,
+    "FID": 817606,
     "remarks": "manually excluded"
   },
   {
-    "ID": 403142,
+    "FID": 810078,
     "remarks": "manually excluded"
   },
   {
-    "ID": 372573,
+    "FID": 817598,
     "remarks": "manually excluded"
   },
   {
-    "ID": 244479,
+    "FID": 330408,
     "remarks": "manually excluded"
   },
   {
-    "ID": 381797,
+    "FID": 466408,
     "remarks": "manually excluded"
   },
   {
-    "ID": 389990,
+    "FID": 467616,
     "remarks": "manually excluded"
   },
   {
-    "ID": 401327,
+    "FID": 371853,
     "remarks": "manually excluded"
   },
   {
-    "ID": 385424,
+    "FID": 467706,
     "remarks": "manually excluded"
   },
   {
-    "ID": 398688,
+    "FID": 388876,
     "remarks": "manually excluded"
   },
   {
-    "ID": 406065,
+    "FID": 403157,
     "remarks": "manually excluded"
   },
   {
-    "ID": 448322,
+    "FID": 467671,
     "remarks": "manually excluded"
   },
   {
-    "ID": 277513,
+    "FID": 425402,
     "remarks": "manually excluded"
   },
   {
-    "ID": 446917,
+    "FID": 447594,
     "remarks": "manually excluded"
   },
   {
-    "ID": 435557,
+    "FID": 467634,
     "remarks": "manually excluded"
   },
   {
-    "ID": 345923,
+    "FID": 516053,
     "remarks": "manually excluded"
   },
   {
-    "ID": 461130,
+    "FID": 376123,
     "remarks": "manually excluded"
   },
   {
-    "ID": 435518,
+    "FID": 397963,
     "remarks": "manually excluded"
   },
   {
-    "ID": 402700,
+    "FID": 425412,
     "remarks": "manually excluded"
-  },
-  {
-    "ID": 598368,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 478077,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 502325,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 433756,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 333165,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 453444,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 819724,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 819708,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 819687,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 819671,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 522609,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 522588,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 522569,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 511965,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 511960,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 511958,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 511955,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 511950,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 511945,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 511924,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 511914,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 511893,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 501219,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 501216,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 501213,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 484336,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 467735,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 467687,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 467646,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 467598,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 466585,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 447614,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 380588,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 367640,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 264861,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 318864,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 259023,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 512251,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 608768,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 515247,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 393374,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 270186,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 268669,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 268485,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 268242,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 270090,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 504131,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 507627,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 634910,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 424033,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 516359,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 443284,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 511184,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 452191,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 532941,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 469138,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 823029,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 484253,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 410931,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 513862,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 452821,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 480679,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 259525,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 511809,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 605834,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 545464,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 527115,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 502765,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 473086,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 472896,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 395077,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 394889,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 391497,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 391266,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 388952,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 388302,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 382655,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 250739,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 228715,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 7910,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 788263,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 535953,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 511181,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 439015,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 476677,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 503666,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 286404,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 816071,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 524157,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 347793,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 339515,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 318908,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 816597,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 702530,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 685171,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 460742,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 453109,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 652208,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 635826,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 533620,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 509369,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 479809,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 435984,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 430244,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 427630,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 416658,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 406952,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 294018,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 262566,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 685770,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 543116,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 511221,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 505070,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 500184,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 465639,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 425791,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 403839,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 553958,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 513581,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 479730,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 465748,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 437666,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 4567,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 326677,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 449882,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 687509,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 234434,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 524865,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 470587,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 423383,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 443218,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 423248,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 458191,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 611651,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 535868,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 470430,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 535933,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 500905,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 475326,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 501767,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 691553,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 730332,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 501067,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 506152,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 815085,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 649043,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 533032,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 500253,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 257663,
-    "remarks": "flagged by system"
   },
   {
-    "ID": 816168,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 520558,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 475285,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 535151,
-    "remarks": "flagged by system"
-  },
-  {
-    "ID": 535087,
-    "remarks": "flagged by system"
+    "FID": 425429,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 501087,
-    "remarks": "flagged by system"
+    "FID": 444786,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 782153,
-    "remarks": "flagged by system"
+    "FID": 444799,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 783687,
-    "remarks": "flagged by system"
+    "FID": 447603,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 761082,
-    "remarks": "flagged by system"
+    "FID": 406863,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 761052,
-    "remarks": "flagged by system"
+    "FID": 406921,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 535054,
-    "remarks": "flagged by system"
+    "FID": 425387,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 535072,
-    "remarks": "flagged by system"
+    "FID": 406936,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 535103,
-    "remarks": "flagged by system"
+    "FID": 406930,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 535078,
-    "remarks": "flagged by system"
+    "FID": 406899,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 535041,
-    "remarks": "flagged by system"
+    "FID": 406890,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 686181,
-    "remarks": "flagged by system"
+    "FID": 406869,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 685132,
-    "remarks": "flagged by system"
+    "FID": 406855,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 514584,
-    "remarks": "flagged by system"
+    "FID": 403310,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 453406,
-    "remarks": "flagged by system"
+    "FID": 403145,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 512020,
-    "remarks": "flagged by system"
+    "FID": 400471,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 510436,
-    "remarks": "flagged by system"
+    "FID": 400466,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 415305,
-    "remarks": "flagged by system"
+    "FID": 400461,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 533329,
-    "remarks": "flagged by system"
+    "FID": 400429,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 535036,
-    "remarks": "flagged by system"
+    "FID": 400424,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 508425,
-    "remarks": "flagged by system"
+    "FID": 400419,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 600229,
-    "remarks": "flagged by system"
+    "FID": 396293,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 844102,
-    "remarks": "flagged by system"
+    "FID": 396144,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 844101,
-    "remarks": "flagged by system"
+    "FID": 396142,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 844090,
-    "remarks": "flagged by system"
+    "FID": 396138,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 844089,
-    "remarks": "flagged by system"
+    "FID": 396136,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 844078,
-    "remarks": "flagged by system"
+    "FID": 396133,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 843779,
-    "remarks": "flagged by system"
+    "FID": 396129,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 843345,
-    "remarks": "flagged by system"
+    "FID": 394367,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 844080,
-    "remarks": "flagged by system"
+    "FID": 394378,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 843778,
-    "remarks": "flagged by system"
+    "FID": 394372,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 843769,
-    "remarks": "flagged by system"
+    "FID": 394381,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 843766,
-    "remarks": "flagged by system"
+    "FID": 392276,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 843765,
-    "remarks": "flagged by system"
+    "FID": 391379,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 843760,
-    "remarks": "flagged by system"
+    "FID": 391373,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 843756,
-    "remarks": "flagged by system"
+    "FID": 390508,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 843755,
-    "remarks": "flagged by system"
+    "FID": 390498,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 843750,
-    "remarks": "flagged by system"
+    "FID": 388886,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 843737,
-    "remarks": "flagged by system"
+    "FID": 388881,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 843723,
-    "remarks": "flagged by system"
+    "FID": 380606,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 843339,
-    "remarks": "flagged by system"
+    "FID": 380599,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 843337,
-    "remarks": "flagged by system"
+    "FID": 356807,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 514036,
-    "remarks": "flagged by system"
+    "FID": 511970,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 275262,
-    "remarks": "flagged by system"
+    "FID": 345484,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 846301,
-    "remarks": "flagged by system"
+    "FID": 355066,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 433866,
-    "remarks": "flagged by system"
+    "FID": 403142,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 563445,
-    "remarks": "flagged by system"
+    "FID": 372573,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 553423,
-    "remarks": "flagged by system"
+    "FID": 244479,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 418321,
-    "remarks": "flagged by system"
+    "FID": 406065,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 284439,
-    "remarks": "flagged by system"
+    "FID": 277513,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 260657,
-    "remarks": "flagged by system"
+    "FID": 448322,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 531162,
-    "remarks": "flagged by system"
+    "FID": 446917,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 797720,
-    "remarks": "flagged by system"
+    "FID": 435557,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 542585,
-    "remarks": "flagged by system"
+    "FID": 345923,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 835389,
-    "remarks": "flagged by system"
+    "FID": 435518,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 834254,
-    "remarks": "flagged by system"
+    "FID": 461130,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 444860,
-    "remarks": "flagged by system"
+    "FID": 195255,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 481404,
-    "remarks": "flagged by system"
+    "FID": 381797,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 528149,
+    "FID": 389990,
     "remarks": "manually excluded"
   },
   {
-    "ID": 499008,
+    "FID": 401327,
     "remarks": "manually excluded"
   },
   {
-    "ID": 424006,
+    "FID": 385424,
     "remarks": "manually excluded"
   },
   {
-    "ID": 419748,
-    "remarks": "flagged by system"
+    "FID": 398688,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 531649,
-    "remarks": "flagged by system"
+    "FID": 402700,
+    "remarks": "manually excluded"
   },
   {
-    "ID": 612196,
-    "remarks": "flagged by system"
-  },
-{
-  "ID": 510077,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 429894,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 486435,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 350911,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 535201,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 535056,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 535044,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 535032,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 535016,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 535003,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 534809,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 534489,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 534480,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 534450,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 534361,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 534353,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 534338,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 534311,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 534296,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 534276,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 534270,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 534255,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 534248,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 534238,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 534216,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 534200,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 534175,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 534116,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 460539,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 455875,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 447355,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 394099,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 394083,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 392620,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 392599,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 392569,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 392549,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 392534,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 392523,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 392518,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 392506,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 392492,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 392477,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 392460,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 390044,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 379748,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 379701,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 374126,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 352385,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 348061,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 301834,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 256032,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 251490,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 275519,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 817606,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 810078,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 817598,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 508532,
-  "remarks": "flagged by system"
-},
-{
-  "ID": 480682,
-  "remarks": "flagged by system"
-},
-{
-  "ID": 829108,
-  "remarks": "flagged by system"
-},
-{
-  "ID": 432209,
-  "remarks": "manually excluded"
-},
-{
-  "ID": 4923,
-  "remarks": "flagged by system"
-},
-{
-  "ID": 400242,
-  "remarks": "flagged by system"
-},
-{
-  "ID": 797336,
-  "remarks": "flagged by system"
-},
-{
-  "ID": 496925,
-  "remarks": "flagged by system"
-},
-{
-  "ID": 508762,
-  "remarks": "flagged by system"
-},
+    "FID": 350911,
+    "remarks": "manually excluded"
+  }
 ]
