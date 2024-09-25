@@ -1886,5 +1886,9 @@
   {
     "FID": 400486,
     "remarks": "manually excluded"
+  },
+  {
+    "FID": 743666,
+    "remarks": "bot"
   }
 ]
