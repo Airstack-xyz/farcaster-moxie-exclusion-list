@@ -1890,5 +1890,173 @@
   {
     "FID": 786858,
     "remarks": "bot"
+  },
+  {
+    "FID": 544673,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 544681,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 544654,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 544521,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 853837,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 520481,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 853893,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 544532,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 853900,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 853888,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 853896,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 544583,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 544660,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 424432,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 853875,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 853880,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 853891,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 544644,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 853865,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 853853,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 853848,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 544592,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 853841,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 853834,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 544626,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 532522,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 423383,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 509150,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 513010,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 853817,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 423248,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 512755,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 853868,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 316430,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 500905,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 470587,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 513198,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 501767,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 424023,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 512849,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 470430,
+    "remarks": "manually excluded"
+  },
+  {
+    "FID": 853817,
+    "remarks": "manually excluded"
   }
 ]
